@@ -1,17 +1,4 @@
-# Workout Plan
-> [tape](https://www.youtube.com/watch?v=IzNunT2AOO4)
-
-**Most important thing is consistency -- at least 15 minutes every day**
-
-## Most Recent Day's Work
-
-**DATE**:
-
-**Completed**:
-
-**Working On**:
-
-## TODO
+# TODO
 
 **PreReqs (surrounding infrastructure)**
 * [command line tutorial](https://www.codecademy.com/learn/learn-the-command-line) (very important)
@@ -25,6 +12,7 @@
 **Core Tasks** 
 * [read and reskim  Zed's intro to instill good habits](https://learnpythonthehardway.org/book/intro.html)
 * `Learning Python The Hard Way`
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 * side projects, frameworks, etc to learn alongside the book
 
 **Eventually**

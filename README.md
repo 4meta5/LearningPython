@@ -10,4 +10,5 @@
 
 * `Learning Python The Hard Way` (in `Resources` folder)
 * [Zed Shaw's Solutions to Learn Python The Hard Way](https://github.com/zedshaw/learn-more-python-the-hard-way-solutions)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 * [Getting Started with Django](https://www.djangoproject.com/start/)
